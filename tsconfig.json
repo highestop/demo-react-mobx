@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "types": ["node"],
+    "jsx": "react",
+    "target": "es6",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "experimentalDecorators": true
+  },
+  "exclude": ["node_modules", "dist", "out"],
+  "include": ["src"]
+}
